@@ -1,0 +1,43 @@
+Script started on Sun 18 Nov 2018 08:23:58 PM EST
+]0;ahusein3@cs2211:~/cs2211/asn4[?1034h[ahusein3@cs2211 asn4]$ pwd
+/gaul/s1/student/2018/ahusein3/cs2211/asn4
+]0;ahusein3@cs2211:~/cs2211/asn4[ahusein3@cs2211 asn4]$ date
+Sun Nov 18 20:24:04 EST 2018
+]0;ahusein3@cs2211:~/cs2211/asn4[ahusein3@cs2211 asn4]$ who am i
+ahusein3 pts/11       2018-11-18 20:23
+]0;ahusein3@cs2211:~/cs2211/asn4[ahusein3@cs2211 asn4]$ ./main
+Please enter the size of your Binary Search Tree:
+ 345
+
+Please enter the name, id and data of the node you'd like to add:
+ Aly 4 5
+
+Would you like to add another?:
+Type N for no
+Type anything else for Yes:
+e
+
+Please enter the name, id and data of the node you'd like to add:
+ John 9 78
+
+Would you like to add another?:
+Type N for no
+Type anything else for Yes:
+l
+
+Please enter the name, id and data of the node you'd like to add:
+ Robert 6 2
+
+Would you like to add another?:
+Type N for no
+Type anything else for Yes:
+N
+(Aly          4)    5
+(John          9)    78
+(Robert          6)    2
+
+Thanks for using my program!, Goodbye.
+]0;ahusein3@cs2211:~/cs2211/asn4[ahusein3@cs2211 asn4]$ exit
+exit
+
+Script done on Sun 18 Nov 2018 08:24:43 PM EST
